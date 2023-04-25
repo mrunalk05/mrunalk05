@@ -30,7 +30,7 @@ Here are some ideas to get you started:
    ![Github stats](https://github-readme-stats.vercel.app/api?username=mrunalk05&theme=highcontrast&show_icons=true&count_private=true)
   
 <div> Top Languages</div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrunalk05)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrunalk05)]
 
 
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mrunalk05&layout=compact)
