@@ -30,11 +30,11 @@ Here are some ideas to get you started:
    ![Github stats](https://github-readme-stats.vercel.app/api?username=mrunalk05&theme=highcontrast&show_icons=true&count_private=true)
   
 <div> Top Languages</div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrunalk05)](https://github.com/anuraghazra/github-readme-stats)
 
 
-  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mrunalk05&layout=compact)
  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mrunalk05&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrunalk05&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
