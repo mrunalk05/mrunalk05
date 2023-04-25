@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h3 align="center">Hey :wave: </h3>
+<h3 align="center">Hey :wave: Mrunal here,</h3>
 <div  id="header" align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJjODFhNWIzNmU1Y2NhOWE4MWMyZDRhYWY4MWNkOTdhNmE0NWZlMSZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"></div>
 <div id="header" align="center">
-  <h3>Mrunal here, I am a Flutter, Full Stack MERN and Djano developer and a Competitive Programmer</h3>
+  <h3> I am a Full Stack MERN, Flutter, Djano Developer and a Competitive Programmer</h3>
 </div>
 </n>
 <div><h3>My Skill Set</h3></div>
