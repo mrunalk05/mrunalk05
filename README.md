@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning and exploring cloud
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -22,18 +22,13 @@ Here are some ideas to get you started:
 </n>
 <div><h3>My Skill Set</h3></div>
 
- [![My Skills](https://skillicons.dev/icons?i=cpp,html,nodejs,express,react,flutter,django,mongodb,linux,mysql,github,vscode,postman,firebase,docker)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=cpp,html,nodejs,express,react,flutter,django,mongodb,linux,mysql,github,vscode,postman,firebase,docker,tailwind,swift,redux)](https://skillicons.dev)
 
   
   <div>Github Status</div>
   
    ![Github stats](https://github-readme-stats.vercel.app/api?username=mrunalk05&theme=highcontrast&show_icons=true&count_private=true)
   
-<div> Top Languages</div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrunalk05)]
-
-
-  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mrunalk05&layout=compact)
  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrunalk05&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
