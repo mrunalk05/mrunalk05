@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </n>
 <div><h3>My Skill Set</h3></div>
 
- [![My Skills](https://skillicons.dev/icons?i=cpp,html,nodejs,express,react,flutter,django,mongodb,linux,mysql,github,vscode,postman,firebase,docker,tailwind,swift,redux)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=cpp,html,nodejs,express,react,flutter,django,mongodb,linux,mysql,github,vscode,postman,firebase,docker,tailwind,swift,redux,git,heruko,sqlite)](https://skillicons.dev)
 
   
   <div>Github Status</div>
