@@ -1,31 +1,22 @@
-### Hi there 👋
-
-
-**mrunalk05/mrunalk05** is a ✨   repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-🌱 I’m currently learning and exploring cloud
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <h3 align="center">Hey :wave: Mrunal here ✨,</h3>
 <div  id="header" align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJjODFhNWIzNmU1Y2NhOWE4MWMyZDRhYWY4MWNkOTdhNmE0NWZlMSZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"></div>
 <div id="header" align="center">
   <h3> I am a Full Stack MERN, Flutter and Djano Developer</h3>
 </div>
 </n>
+<div><h3>About Me</h3></div>
+
+- 🔭 I’m currently a Third Year Computer Science Student from Walchand College of Engineering.
+- 🌱 I’m currently exploring Backend and Cloud.
+- ⚡ I love to solve promblems of LeetCode and GFG
+
+
 <div><h3>My Skill Set</h3></div>
 
  [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,nodejs,express,react,flutter,django,mongodb,linux,mysql,github,javascript,vscode,postman,firebase,docker,tailwind,swift,sqlite,redux,git)](https://skillicons.dev)
 
   
-  <div>Github Status</div>
+ <div><h3>Github Status</h3></div>
   
    ![Github stats](https://github-readme-stats.vercel.app/api?username=mrunalk05&theme=highcontrast&show_icons=true&count_private=true)
   
