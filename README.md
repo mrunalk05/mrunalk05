@@ -7,7 +7,7 @@
 <div><h3>About Me</h3>
 
 - 🔭 Currently, I am a Third-year Computer Science student at Walchand College of Engineering.
-- 🌱 Currently, I'm fascinated by the Backend in addition exploring cloud.
+- 🌱 I'm fascinated by the Backend, in addition exploring Cloud.
 - ⚡ The DSAFanatic in me enjoys solving problems on LeetCode and GFG.
 </div>
 
